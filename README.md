@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ThisIsJulian/Easy.png?label=ready&title=Ready)](https://waffle.io/ThisIsJulian/Easy)
 # Easy
 *Easy* is a 2D Game Engine written in C++ on top of OpenGL.
 Its aim is to provide an easy to use framework for game developers,
